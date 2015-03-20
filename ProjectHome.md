@@ -1,0 +1,1 @@
+el proyecto consta en un aplicativo en modalidad prototipo que permitirá gestionar entidades geográficas de manera remota utilizando un sitio web
